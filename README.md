@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá :)
+###
+### Meu nome é Ismael e eu sou um estudante de Análise e Desenvolvimento de Sistemas
+### Atualmente estou desenvolvendo minhas habilidades como desenvolvedor, e aqui no meu Github você poderá encontrar alguns dos meus projetos.
+###
+### Se estiver interesse em me conhecer, acesse ismaelio.github.io para conhecer alguns dos meus projetos, que não se limitam a apenas a programação!
+### Sinta-se livre para se conectar comigo no Linkedin: https://www.linkedin.com/in/ismael-lucas-costa-viana/
 
 <!--
 **ismaelio/ismaelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
